@@ -14,7 +14,7 @@
 //// Null 全ての参照型のサブタイプ
 // Nothing 全ての型のサブタイプ
 
-object Chapter2 extends App {
+object Chapter2_1 extends App {
   println("## Int型")
   println("1 + 2 = " + (1 + 2))
   println("------------------------------------------")
@@ -91,7 +91,48 @@ object Chapter2 extends App {
 
   // ジェネリクスと組み合わせて空のコレクションとして使うこともできる。
   // NilはList[Nothing]を継承している。
+  println("------------------------------------------")
+  println("## String型")
+  println("Hoge")
+  println("Hoge\r\nHoge")
+  println(
+    """
+      |This is
+      |a multiline String
+      |literal
+    """.stripMargin)
+  // 複数行文字列リテラルではエスケープシーケンスが使えない
+  println("""\r\n""")
+  // 文字列リテラルの前にsをつけると式を埋め込める
+  println(s"1 + 2 = ${1 + 2}")
+  val num:Int = 1
+  println(s"a = $num")
+  println(s"${List(1,2,3,4)}")
+  println("------------------------------------------")
+  println("## タプル")
+  val p:(Int, Int) = (10,20)
+  println(s"p = $p")
+  println(s"p._1 = ${p._1}")
+  println(s"p._1 = ${p._2}")
 
+  // タプルはmatch式を利用して分解することが多い。
+  val q:(Int, Int, Int) = (30, 40, 50)
+  q match {
+    case (x,y,z) =>
+      println(x)
+      println(y)
+      println(z)
+  }
 
+  // 型メンバを使うとタプルに別名をつけることもできる。
+  type Point = (Int, Int, Int)
+  val r: Point = (60,70,80)
+  println(r)
+
+  // タプルは各要素の型が違っても良い。
+  val person: (String, Int) = ("Taro", 18)
+  println(person)
+  println(s"person._1 = ${person._1}")
+  println(s"person._2 = ${person._2}")
 
 }
