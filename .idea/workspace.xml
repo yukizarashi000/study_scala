@@ -1,81 +1,49 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="8d77186b-786a-4386-be18-a0c24baaca9b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Chapter2/chapter2_2.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter2/chapter2_3.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter2/Chapter2_5$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter2/Chapter2_5.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter2/Chapter2_6$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter2/Chapter2_6$delayedInit$body.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter2/Chapter2_6.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter2/Chapter2_7$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter2/Chapter2_7$delayedInit$body.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter2/Chapter2_7.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter2/Point$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter2/add$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter2/chapter2_4.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter2/chapter2_5.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter2/chapter2_6.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter2/chapter2_7.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/study_scala-build.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/study_scala-build.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter2/Chapter2$.class" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter2/Chapter2$.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter2/Chapter2$delayedInit$body.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter2/Chapter2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter2/chapter2.scala" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter2/chapter2_1.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter2/Chapter2$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter2/Employee.class" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter2/Employee.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter2/Enumerable.class" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter2/Enumerable.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter2/Point.class" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter2/Point.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter2/chapter2_3.scala" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter2/chapter2_3.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/update/update_cache_2.12/output" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/update/update_cache_2.12/output" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/.history" beforeDir="false" afterPath="$PROJECT_DIR$/target/.history" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/update/update_cache_2.12/output" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.12/update/update_cache_2.12/output" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/_global/updateClassifiers/_global/streams/update_cache_2.12/output" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/_global/updateClassifiers/_global/streams/update_cache_2.12/output" afterDir="false" />
     </list>
-    <ignored path="$PROJECT_DIR$/out/" />
-    <ignored path="$PROJECT_DIR$/target/" />
-    <ignored path="$PROJECT_DIR$/project/project/target/" />
-    <ignored path="$PROJECT_DIR$/project/target/" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
     </projectState>
-  </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/hello.scala">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="24" selection-start-column="24" selection-end-column="24" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Chapter1/chapter1.scala">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2445">
-              <caret line="163" selection-start-line="163" selection-end-line="163" selection-end-column="55" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Chapter2/chapter2_1.scala">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="19" lean-forward="true" selection-start-column="19" selection-end-column="19" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Chapter2/chapter2_2.scala">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="344">
-              <caret line="26" column="1" lean-forward="true" selection-start-line="26" selection-start-column="1" selection-end-line="26" selection-end-column="1" />
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Chapter2/chapter2_3.scala">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="18" column="36" selection-start-line="18" selection-start-column="36" selection-end-line="18" selection-end-column="36" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -89,78 +57,27 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/Chapter1.scala" />
-        <option value="$PROJECT_DIR$/hello.scala" />
-        <option value="$PROJECT_DIR$/chapter1.scala" />
-        <option value="$PROJECT_DIR$/Chapter1/chapter1.scala" />
-        <option value="$PROJECT_DIR$/Chapter2/Chapter2.scala" />
-        <option value="$PROJECT_DIR$/Chapter2/chapter2.scala" />
-        <option value="$PROJECT_DIR$/Chapter2/chapter2-1.scala" />
-        <option value="$PROJECT_DIR$/Chapter2/chapter2_2.scala" />
-        <option value="$PROJECT_DIR$/Chapter2/chapter2_3.scala" />
-      </list>
-    </option>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="464" />
-    <option name="y" value="24" />
-    <option name="width" value="1019" />
-    <option name="height" value="812" />
+  <component name="ProjectId" id="1hrCaPTN4a3A5kLoAlzdkup5iBW" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="study_scala" type="b2602c69:ProjectViewProjectNode" />
-              <item name="study_scala" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="study_scala" type="b2602c69:ProjectViewProjectNode" />
-              <item name="study_scala" type="462c0819:PsiDirectoryNode" />
-              <item name="Chapter1" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="study_scala" type="b2602c69:ProjectViewProjectNode" />
-              <item name="study_scala" type="462c0819:PsiDirectoryNode" />
-              <item name="Chapter2" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-    </panes>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1600358521908" />
-    <property name="settings.editor.selected.configurable" value="application.passwordSafe" />
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1600358599030" />
+    <property name="settings.editor.selected.configurable" value="ScalaSmartKeys" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/Chapter1" />
     </key>
-  </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
   </component>
   <component name="RunManager">
     <configuration name="Chapter2_3" type="Application" factoryName="Application" temporary="true">
@@ -176,48 +93,7 @@
       </list>
     </recent_temporary>
   </component>
-  <component name="SbtLocalSettings">
-    <option name="availableProjects">
-      <map>
-        <entry>
-          <key>
-            <ExternalProjectPojo>
-              <option name="name" value="study_scala" />
-              <option name="path" value="$PROJECT_DIR$" />
-            </ExternalProjectPojo>
-          </key>
-          <value>
-            <list>
-              <ExternalProjectPojo>
-                <option name="name" value="study_scala [file:/Users/yukizarashi/Documents/study_scala/]" />
-                <option name="path" value="$PROJECT_DIR$" />
-              </ExternalProjectPojo>
-              <ExternalProjectPojo>
-                <option name="name" value="study_scala-build" />
-                <option name="path" value="$PROJECT_DIR$/project" />
-              </ExternalProjectPojo>
-            </list>
-          </value>
-        </entry>
-      </map>
-    </option>
-    <option name="modificationStamps">
-      <map>
-        <entry key="$PROJECT_DIR$" value="3200185260000" />
-        <entry key="$PROJECT_DIR$/build.sbt" value="2666110099" />
-        <entry key="$PROJECT_DIR$/project/build.properties" value="2582063684" />
-      </map>
-    </option>
-    <option name="projectSyncType">
-      <map>
-        <entry key="$PROJECT_DIR$/../scala_project/play-scala" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../scala_project/test_project" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$" value="RE_IMPORT" />
-        <entry key="$PROJECT_DIR$/../workspace_test" value="PREVIEW" />
-        <entry key="$USER_HOME$/Downloads/scala-sandbox-master" value="PREVIEW" />
-      </map>
-    </option>
-  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -231,83 +107,23 @@
     </task>
     <servers />
   </component>
-  <component name="ToolWindowManager">
-    <frame x="464" y="24" width="1019" height="812" extended-state="0" />
-    <editor active="true" />
-    <layout>
-      <window_info id="Image Layers" order="0" />
-      <window_info id="Capture Tool" order="1" />
-      <window_info id="UI Designer" order="2" />
-      <window_info id="Favorites" order="3" side_tool="true" />
-      <window_info id="Learn" order="4" />
-      <window_info id="Designer" order="5" />
-      <window_info content_ui="combo" id="Project" order="6" visible="true" weight="0.2661208" />
-      <window_info id="Structure" order="7" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Messages" />
-      <window_info anchor="bottom" id="sbt-shell-toolwindow" order="0" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="1" visible="true" weight="0.32916668" />
-      <window_info anchor="bottom" id="Docker" order="2" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" order="3" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" order="4" />
-      <window_info anchor="bottom" id="Build" order="5" weight="0.32963988" />
-      <window_info anchor="bottom" id="Message" order="6" />
-      <window_info anchor="bottom" id="Find" order="7" />
-      <window_info anchor="bottom" id="Run" order="8" weight="0.32916668" />
-      <window_info anchor="bottom" id="Debug" order="9" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="10" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="11" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="12" />
-      <window_info anchor="right" id="Palette" order="0" />
-      <window_info anchor="right" id="sbt" order="1" />
-      <window_info anchor="right" id="Capture Analysis" order="2" />
-      <window_info anchor="right" id="Palette&#9;" order="3" />
-      <window_info anchor="right" id="Theme Preview" order="4" />
-      <window_info anchor="right" id="Maven" order="5" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="6" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="7" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="8" weight="0.25" />
-    </layout>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Chapter1.sc" />
-    <entry file="file://$PROJECT_DIR$/hello.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="24" selection-start-column="24" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter1/chapter1.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2445">
-          <caret line="163" selection-start-line="163" selection-end-line="163" selection-end-column="55" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter2/chapter2_1.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="19" lean-forward="true" selection-start-column="19" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter2/chapter2_2.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="344">
-          <caret line="26" column="1" lean-forward="true" selection-start-line="26" selection-start-column="1" selection-end-line="26" selection-end-column="1" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter2/chapter2_3.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="36" selection-start-line="18" selection-start-column="36" selection-end-line="18" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
+  <component name="WindowStateProjectService">
+    <state x="643" y="240" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1600774365300">
+      <screen x="0" y="23" width="1440" height="814" />
+    </state>
+    <state x="643" y="240" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1440.814@0.23.1440.814" timestamp="1600774365300" />
+    <state x="432" y="70" key="SettingsEditor" timestamp="1600773535933">
+      <screen x="0" y="23" width="1440" height="814" />
+    </state>
+    <state x="432" y="70" key="SettingsEditor/0.23.1440.814@0.23.1440.814" timestamp="1600773535933" />
+    <state x="595" y="161" width="670" height="678" key="search.everywhere.popup" timestamp="1600870339836">
+      <screen x="0" y="23" width="1440" height="816" />
+    </state>
+    <state x="595" y="161" width="670" height="676" key="search.everywhere.popup/0.23.1440.814@0.23.1440.814" timestamp="1600780299155" />
+    <state x="595" y="161" width="670" height="678" key="search.everywhere.popup/0.23.1440.816@0.23.1440.816" timestamp="1600870339836" />
   </component>
   <component name="masterDetails">
     <states>
