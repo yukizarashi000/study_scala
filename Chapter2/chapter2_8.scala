@@ -97,6 +97,8 @@ class FInalSub {
 //  override final def foo: Unit = println("final sub") // エラー
 }
 
+// 継承先で実装を決めたい場合。
+// Javaと違い、メソッドには付けられない。
 abstract class Abstract {
   def foo: Unit
 }

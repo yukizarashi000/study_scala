@@ -5,24 +5,28 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8d77186b-786a-4386-be18-a0c24baaca9b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Chapter2/Chapter2_8$.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter2/Chapter2_8$delayedInit$body.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter2/Chapter2_8.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter2/Circle.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter2/Printer.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter2/PrivatePrinter$Inner$InnerMost.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter2/PrivatePrinter$Inner.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter2/PrivatePrinter.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter2/PrivateThisPrinter$Inner.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter2/PrivateThisPrinter.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter2/PublicPrinter.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter2/Sub.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter2/Super.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter2/chapter2_8.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter2/Cell.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter2/Chapter2_10$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter2/Chapter2_10$delayedInit$body.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter2/Chapter2_10.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter2/Chapter2_11$$anon$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter2/Chapter2_11$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter2/Chapter2_11$delayedInit$body.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter2/Chapter2_11.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter2/Chapter2_9$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter2/Chapter2_9$delayedInit$body.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter2/Chapter2_9.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter2/chapter2_10.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter2/chapter2_11.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter2/chapter2_9.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter2/com/github/yukizarashi/Chapter2_10$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter2/com/github/yukizarashi/Chapter2_10$delayedInit$body.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter2/com/github/yukizarashi/Chapter2_10.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter2/com/github/yukizarashi/mypackage/package$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter2/com/github/yukizarashi/mypackage/package.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter2/mypackage.scala" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter2/Chapter2_7$.class" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter2/Chapter2_7$.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter2/Chapter2_7.class" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter2/Chapter2_7.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter2/chapter2_7.scala" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter2/chapter2_7.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter2/chapter2_8.scala" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter2/chapter2_8.scala" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
