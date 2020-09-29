@@ -137,6 +137,31 @@ object Chapter2_7 extends App {
   // vi. パターン選択 => 1 | 2など複数のパターンにマッチする場合。
   // vii. 型 => x: Intなど型の一致を確認する場合。
 
+  // throw式
+  // JavaのThrowableクラスを継承しているインスタンスなら何でも投げられる。
+
+  // try式
+  try {
+    throw new RuntimeException("実行時例外")
+  } catch {
+    case e: Exception => println(e.getMessage)
+  }
+  println("=======================================")
+
+  // ローカルメソッド
+  // オブジェクト直下に定義されているのではないメソッドをローカルメソッドという。
+  def factorial(n: Int): Int = {
+    def f(m: Int, x: Int): Int = if(m == 0) {
+      x
+    } else {
+      f(m - 1, x * m)
+    }
+    f(n, 1)
+  }
+  println(factorial(2))
+  println("=======================================")
+
+
 
 
 

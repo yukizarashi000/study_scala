@@ -5,32 +5,24 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8d77186b-786a-4386-be18-a0c24baaca9b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter2/Chapter2_5$.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter2/Chapter2_5.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter2/Chapter2_6$.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter2/Chapter2_6$delayedInit$body.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter2/Chapter2_6.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter2/Chapter2_7$.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter2/Chapter2_7$delayedInit$body.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter2/Chapter2_7.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter2/Point$.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter2/add$.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter2/chapter2_4.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter2/chapter2_5.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter2/chapter2_6.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter2/chapter2_7.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/study_scala-build.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/study_scala-build.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter2/Chapter2_8$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter2/Chapter2_8$delayedInit$body.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter2/Chapter2_8.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter2/Circle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter2/Printer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter2/PrivatePrinter$Inner$InnerMost.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter2/PrivatePrinter$Inner.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter2/PrivatePrinter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter2/PrivateThisPrinter$Inner.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter2/PrivateThisPrinter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter2/PublicPrinter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter2/Sub.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter2/Super.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter2/chapter2_8.scala" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter2/Chapter2$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter2/Employee.class" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter2/Employee.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter2/Enumerable.class" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter2/Enumerable.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter2/Point.class" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter2/Point.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter2/chapter2_3.scala" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter2/chapter2_3.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/update/update_cache_2.12/output" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/update/update_cache_2.12/output" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/.history" beforeDir="false" afterPath="$PROJECT_DIR$/target/.history" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.12/update/update_cache_2.12/output" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.12/update/update_cache_2.12/output" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/streams/_global/updateClassifiers/_global/streams/update_cache_2.12/output" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/_global/updateClassifiers/_global/streams/update_cache_2.12/output" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter2/Chapter2_7$.class" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter2/Chapter2_7$.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter2/Chapter2_7.class" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter2/Chapter2_7.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter2/chapter2_7.scala" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter2/chapter2_7.scala" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -119,9 +111,10 @@
       <screen x="0" y="23" width="1440" height="814" />
     </state>
     <state x="432" y="70" key="SettingsEditor/0.23.1440.814@0.23.1440.814" timestamp="1600773535933" />
-    <state x="595" y="161" width="670" height="678" key="search.everywhere.popup" timestamp="1600870339836">
-      <screen x="0" y="23" width="1440" height="816" />
+    <state x="595" y="160" width="670" height="675" key="search.everywhere.popup" timestamp="1601390185033">
+      <screen x="0" y="23" width="1440" height="812" />
     </state>
+    <state x="595" y="160" width="670" height="675" key="search.everywhere.popup/0.23.1440.812@0.23.1440.812" timestamp="1601390185033" />
     <state x="595" y="161" width="670" height="676" key="search.everywhere.popup/0.23.1440.814@0.23.1440.814" timestamp="1600780299155" />
     <state x="595" y="161" width="670" height="678" key="search.everywhere.popup/0.23.1440.816@0.23.1440.816" timestamp="1600870339836" />
   </component>
